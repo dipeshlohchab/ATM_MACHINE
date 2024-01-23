@@ -2,7 +2,7 @@
 This program is an ATM MACHINE made using python's object-oriented programming.
 
 The password for ADMIN login is 123456.
-You can run the code on replit https://replit.com/@dipeshlohchab03/ATM
+You can run the code on replit [https://replit.com/@dipeshlohchab03/ATM](https://replit.com/@dipeshlohchab03/ATM)
 
 ## SCREENSHOT OF ITS WORKING
 
