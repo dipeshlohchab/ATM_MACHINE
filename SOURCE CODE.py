@@ -76,6 +76,9 @@ class Atm:
                     else :
                         print("Invalid input.")
                         self.administrative()
+                else:
+                    print("THE PASSWORD YOU ENTERED IS WRONG. PLEASE ENTER CORRECT PASSWORD.")
+                    self.administrative()
 # Function for USER page
     def __menu(self):
         while True:
